@@ -1,5 +1,1 @@
-Testing
-<<<<<<< HEAD
-test 2 added.
-hello world
-manual test added
+Testing New
