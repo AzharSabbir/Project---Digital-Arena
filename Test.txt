@@ -1,2 +1,2 @@
 Testing
-test 2 added.
+manual test added
